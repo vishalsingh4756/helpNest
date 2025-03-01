@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "1057167510210",
+    "project_id": "helpnest-54527",
+    "storage_bucket": "helpnest-54527.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057167510210:android:6283cbc7b24bebf4e9095b",
+        "android_client_info": {
+          "package_name": "com.example.helpnest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057167510210-e825kvpgcbkrvt9vt302cnv8i95evf6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.helpnest",
+            "certificate_hash": "2a7fd8b45bd263d3eafdf4fddbfdbf9ece61ffd6"
+          }
+        },
+        {
+          "client_id": "1057167510210-hovsloouagj0agfondjqaadai445fig7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.helpnest",
+            "certificate_hash": "cc876628def9bf4206e11697751a1051f5330520"
+          }
+        },
+        {
+          "client_id": "1057167510210-4g2q3ni7a5i2f4ubf8tl787qieq4ovnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNTxZZno0dAX6hOC1jcsi4yFajXCf317g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057167510210-4g2q3ni7a5i2f4ubf8tl787qieq4ovnc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1057167510210-ouv3tl4sq4epc5nveku7d4dla11r5j2r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.helpnest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
